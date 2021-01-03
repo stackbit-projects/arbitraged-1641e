@@ -6,9 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Manage your Takealot account like a pro
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: You shouldnt have to do so like an animal.
     actions:
       - label: Learn More
         url: /features
